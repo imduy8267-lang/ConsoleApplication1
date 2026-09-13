@@ -16,7 +16,7 @@ int main() {
     for (int i = 1; i < n; i++) {
         if (a[i] > maxVal) {
             maxVal = a[i];
-        }
+        };;;;
     }
 
     cout << "Phần tử lớn nhất là: " << maxVal << endl;
